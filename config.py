@@ -1,0 +1,6 @@
+sysdig_url = 'https://eu1.app.sysdig.com/api/serviceaccounts/team'
+sysdig_apikey = '123456'
+customer_id = ''
+team_id = '20000000'
+team_role = 'ROLE_TEAM_STANDARD'
+name = ''
